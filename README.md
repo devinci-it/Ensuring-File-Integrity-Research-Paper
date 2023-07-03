@@ -5,14 +5,14 @@ This repository contains a case study on hash verification techniques for ensuri
 ## Table of Contents
 
 - [Introduction](sections/intro.md)
-- [Section II: Importance of File Integrity](sections/II.md)
-- [Section III: Hash Functions and Their Properties](sections/III.md)
-- [Section IV: Hash Verification Techniques](sections/IV.md)
-- [Section V: Challenges and Benefits](sections/V.md)
-- [Section VI: Limitations and Considerations](sections/VI.md)
-- [Section VII: Conclusion](sections/VII.md)
-- [Section VIII: Lab Exercise: Hash Verification in Practice](sections/VIII.md)
-- [Works Cited](sections/workscited.md)
+- [Section II: Importance of File Integrity](sections/2-importance.md)
+- [Section III: Hash Functions and Their Properties](sections/3-hash-functions.md)
+- [Section IV: Hash Verification Techniques](sections/4-verification-techniques.md)
+- [Section V: Challenges and Benefits](sections/5-challenges-benefits.md)
+- [Section VI: Limitations and Considerations](sections/6-limitations-considerations.md)
+- [Section VII: Conclusion](sections/7-conclusion.md)
+- [Section VIII: Lab Exercise: Hash Verification in Practice](sections/8-lab-exercise.md)
+- [Works Cited](sections/works-cited.md)
 
 ## Usage
 
